@@ -1,0 +1,15 @@
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\models\Planeta.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\util\URL.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\exception\ObjectNotFoundException.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\controllers\PlanetaController.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\models\PlanetaResponse.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\repository\PlanetaRepository.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\models\PlanetaApiSW.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\models\StandardError.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\models\ResultApiSW.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\client\SWAPIRestTeamplate.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\services\PlanetaService.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\controllers\ControlExceptionHandler.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\ApiStarWarsApplication.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\exception\BadRequest.java
+C:\Users\andressa.s.paiao\Desktop\Desafio_Api_StarWars-master\Desafio_Api_StarWars-master\src\main\java\com\b2w\apistarwars\exception\ServiceUnavailable.java

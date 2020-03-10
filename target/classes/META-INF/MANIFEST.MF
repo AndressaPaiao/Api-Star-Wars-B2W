@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Api_Star_Wars
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: andressa.s.paiao
+Implementation-Vendor-Id: com.b2w
+Build-Jdk: 1.8.0_241
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/Api_Star_Wars
+Created-By: Maven Integration for Eclipse
+
